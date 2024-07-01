@@ -1,0 +1,3 @@
+# ditomaapp
+
+flutter create .
